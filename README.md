@@ -42,7 +42,7 @@
 
 <p>You can also use the exercises to create your own Python programs and expand upon them to further practice and explore Python programming concepts.</p>
 
-<h2>🤝 Contributing</h2>
+<h2>Contributing 🤝 </h2>
 
 <p>Contributions are welcome and encouraged! If you would like to contribute to this project, please follow these steps:</p>
 
@@ -54,11 +54,11 @@
   <li>Open a Pull Request.</li>
 </ol>
 
-<h2>📄 License</h2>
+<h2>License 📄 </h2>
 
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-<h2>📧 Contact</h2>
+<h2>Contact 📧 </h2>
 
 <p>Bruno Souza - <a href="mailto:bmsouza88@gmail.com">bmsouza88@gmail.com</a> ✉️</p>
 
