@@ -10,7 +10,7 @@
   <li>Python 🐍</li>
 </ul>
 
-<h2>Description 📝h2>
+<h2>Description 📝</h2>
 
 <p>This project is a compilation of exercises aimed at beginners who are learning Python. The exercises are designed to provide hands-on practice and reinforce the concepts covered in Python programming.</p>
 
